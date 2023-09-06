@@ -1,0 +1,5 @@
+https://scipy-lectures.org/intro/matplotlib/index.html
+
+https://matplotlib.org/3.5.0/tutorials/text/text_intro.html#
+
+https://matplotlib.org/3.5.0/api/_as_gen/matplotlib.pyplot.rc.html
